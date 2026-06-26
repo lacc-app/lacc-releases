@@ -1,21 +1,28 @@
-# Lacc — VPN client
+# Lacc
 
-Fast, elegant VPN client for Windows (sing-box core). Subscriptions, server
-picker, mux / TLS-fragment / DNS / routing, auto-updates.
+Быстрый и аккуратный клиент для управления сетевыми подключениями (Windows).
+Импортируйте конфигурацию, выбирайте узел и подключайтесь в один клик.
 
-## Download
+## Скачать
 
-**[⬇ Download the latest Windows installer](../../releases/latest)**
+**[⬇ Скачать последнюю версию для Windows](../../releases/latest)**
 
-- `Lacc_x64-setup.exe` — recommended (NSIS installer)
-- `Lacc_x64_en-US.msi` — MSI alternative
+- `Lacc_x64-setup.exe` — рекомендуется (установщик)
+- `Lacc_x64_en-US.msi` — альтернатива (MSI)
 
-After installing, the app fetches the sing-box core automatically and updates
-itself.
+После установки приложение само загрузит необходимый компонент и обновляется автоматически.
 
-## Links
-- Site: https://lacc.ru
-- Issues / feedback: the [Issues](../../issues) tab
+## Возможности
+- Подключение и переключение узлов в один клик
+- Импорт конфигурации по ссылке, ключу, QR или из буфера
+- Современные протоколы, мультиплексирование, фрагментация TLS
+- Гибкая маршрутизация трафика
+- Тёмная и светлая темы, авто-обновления
 
-> This repository hosts the **release builds only**. The application source is
-> maintained privately.
+## Ссылки
+- Сайт: https://lacc.ru
+- Обратная связь: вкладка [Issues](../../issues)
+
+> Lacc — сетевая утилита. Приложение не предоставляет серверов и доступа к
+> ресурсам: конфигурацию и узлы предоставляет ваш сервис-провайдер. Здесь
+> публикуются только готовые сборки; исходный код проекта приватный.
