@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 548" width="880" height="548" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
-  <rect x="1" y="1" width="878" height="546" rx="16" fill="#ffffff" stroke="#e4e5ea" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 508" width="880" height="508" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
+  <rect x="1" y="1" width="878" height="506" rx="16" fill="#ffffff" stroke="#e4e5ea" stroke-width="1.5"/>
   <rect x="412" y="34" width="56" height="56" rx="15" fill="#2c2c2e"/>
   <g transform="translate(412,34) scale(1.4)"><path d="M11 15 L17.2 9 L17.2 25.8 L29 25.8 L29 32 L11 32 Z" fill="#ffffff"/></g>
   <text x="440" y="140" text-anchor="middle" font-size="44" font-weight="800" letter-spacing="-1.6" fill="#1a1a1f">Lacc</text>
@@ -34,19 +34,13 @@
   <g transform="translate(467,357) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 0114-5m2-3v4h-4M20 12a8 8 0 01-14 5m-2 3v-4h4"/></g>
   <text x="506" y="364" font-size="13.5" font-weight="700" fill="#1a1a1f">Автообновление</text>
   <text x="506" y="381" font-size="11.5" fill="#6b6b72">Всегда свежая сборка</text>
-  <rect x="41" y="414" width="258" height="104" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
-  <text x="170" y="452" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1f">Windows</text>
-  <text x="170" y="472" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.1.1</text>
-  <rect x="118" y="484" width="104" height="32" rx="9" fill="#2c2c2e"/>
-         <text x="170" y="504" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Скачать</text>
-  <rect x="311" y="414" width="258" height="104" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
-  <text x="440" y="452" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a1f">Android</text>
-  <text x="440" y="472" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.2.1</text>
-  <rect x="388" y="484" width="104" height="32" rx="9" fill="#2c2c2e"/>
-         <text x="440" y="504" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Скачать</text>
-  <rect x="581" y="414" width="258" height="104" rx="12" fill="#f5f6f9" stroke="#e4e5ea" opacity="0.72"/>
-  <text x="710" y="452" text-anchor="middle" font-size="17" font-weight="700" fill="#a6a6ad">iOS</text>
-  <text x="710" y="472" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">скоро</text>
-  <rect x="658" y="484" width="104" height="32" rx="9" fill="none" stroke="#e4e5ea"/>
-         <text x="710" y="504" text-anchor="middle" font-size="14" font-weight="700" fill="#a6a6ad">—</text>
+  <rect x="41" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <text x="170" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a1f">Windows</text>
+  <text x="170" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.1.1</text>
+  <rect x="311" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <text x="440" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a1f">Android</text>
+  <text x="440" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.2.1</text>
+  <rect x="581" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea" opacity="0.7"/>
+  <text x="710" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#a6a6ad">iOS</text>
+  <text x="710" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">скоро</text>
 </svg>
