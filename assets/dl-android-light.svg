@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 46" width="132" height="46" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
+  <rect x="1" y="1" width="130" height="44" rx="11" fill="#2c2c2e"/>
+  <g transform="translate(26,15)" fill="none" stroke="#ffffff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5v9m0 0l-3.2-3.2m3.2 3.2l3.2-3.2M3.5 15.5h11"/></g>
+  <text x="52" y="29" font-size="14.5" font-weight="600" fill="#ffffff">Android</text>
+</svg>

@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
-  <rect x="1" y="1" width="198" height="46" rx="12" fill="#2c2c2e"/>
-  <g transform="translate(19,14)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v10m0 0l-3.5-3.5m3.5 3.5l3.5-3.5M4 17.5h12"/></g>
-  <text x="45" y="30" font-size="15" font-weight="600" fill="#ffffff">Android (APK)</text>
-</svg>

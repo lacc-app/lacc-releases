@@ -4,15 +4,11 @@
 </picture>
 
 <p align="center">
-  <a href="../../releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-win-dark.svg"><img alt="Скачать для Windows" src="assets/btn-win-light.svg" height="44"></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://check.lacc.ru/updates/android/lacc-0.2.1.apk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-android-dark.svg"><img alt="Скачать Android APK" src="assets/btn-android-light.svg" height="44"></picture></a>
+  <a href="../../releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dl-windows-dark.svg"><img alt="Скачать для Windows" src="assets/dl-windows-light.svg" height="44"></picture></a>
+  &nbsp;
+  <a href="https://check.lacc.ru/updates/android/lacc-0.2.1.apk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dl-android-dark.svg"><img alt="Скачать для Android" src="assets/dl-android-light.svg" height="44"></picture></a>
 </p>
 
-<p align="center"><sub>
-  iOS — скоро &nbsp;·&nbsp; Сайт — <a href="https://lacc.ru">lacc.ru</a> &nbsp;·&nbsp; Обратная связь — <a href="../../issues">Issues</a>
-</sub></p>
+<p align="center">iOS — скоро &nbsp;·&nbsp; <a href="https://lacc.ru">lacc.ru</a> &nbsp;·&nbsp; <a href="../../issues">Обратная связь</a></p>
 
-> Lacc — сетевая утилита. Приложение не предоставляет серверов и доступа к ресурсам:
-> конфигурацию и узлы предоставляет ваш сервис-провайдер. Здесь публикуются только
-> готовые сборки; исходный код проекта приватный.
+_Lacc — сетевая утилита. Приложение не предоставляет серверов и доступа к ресурсам: конфигурацию и узлы предоставляет ваш сервис-провайдер. Здесь публикуются только готовые сборки; исходный код проекта приватный._
