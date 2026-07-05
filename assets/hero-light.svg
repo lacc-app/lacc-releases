@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
+  <rect x="1" y="1" width="878" height="218" rx="16" fill="#ffffff" stroke="#e4e5ea" stroke-width="1.5"/>
+  <rect x="412" y="34" width="56" height="56" rx="15" fill="#2c2c2e"/>
+  <g transform="translate(412,34) scale(1.4)"><path d="M11 15 L17.2 9 L17.2 25.8 L29 25.8 L29 32 L11 32 Z" fill="#ffffff"/></g>
+  <text x="440" y="150" text-anchor="middle" font-size="46" font-weight="800" letter-spacing="-1.6" fill="#1a1a1f">Lacc</text>
+  <text x="440" y="184" text-anchor="middle" font-size="15" fill="#6b6b72">Быстрый и аккуратный клиент для управления сетевыми подключениями.</text>
+</svg>
