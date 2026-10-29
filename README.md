@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Lacc — быстрый клиент для сетевых подключений. Возможности: один клик, импорт по ссылке / ключу / QR, мультиплексирование и фрагментация TLS, гибкая маршрутизация, две темы, автообновления. Платформы: Windows v0.12.11, Android v0.7.4, iOS — скоро." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-20261029.svg">
+  <img alt="Lacc — быстрый клиент для сетевых подключений. Возможности: один клик, импорт по ссылке / ключу / QR, мультиплексирование и фрагментация TLS, гибкая маршрутизация, две темы, автообновления. Платформы: Windows v0.12.11, Android v0.7.4, iOS — скоро." src="assets/banner-light-20261029.svg" width="100%">
 </picture>
 
 <p align="center">
