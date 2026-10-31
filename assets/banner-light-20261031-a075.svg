@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 508" width="880" height="508" font-family="-apple-system, 'Segoe UI', system-ui, Roboto, sans-serif">
+  <rect x="1" y="1" width="878" height="506" rx="16" fill="#ffffff" stroke="#e4e5ea" stroke-width="1.5"/>
+  <rect x="412" y="34" width="56" height="56" rx="15" fill="#2c2c2e"/>
+  <g transform="translate(412,34) scale(1.4)"><path d="M11 15 L17.2 9 L17.2 25.8 L29 25.8 L29 32 L11 32 Z" fill="#ffffff"/></g>
+  <text x="440" y="140" text-anchor="middle" font-size="44" font-weight="800" letter-spacing="-1.6" fill="#1a1a1f">Lacc</text>
+  <text x="440" y="172" text-anchor="middle" font-size="14.5" fill="#6b6b72">Быстрый и аккуратный клиент для управления сетевыми подключениями.</text>
+  <rect x="40" y="198" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="53" y="211" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(59,217) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3v12l3-2 3 5 2-1-3-5h4z"/></g>
+  <text x="98" y="224" font-size="13.5" font-weight="700" fill="#1a1a1f">Один клик</text>
+  <text x="98" y="241" font-size="11.5" fill="#6b6b72">Подключение и переключение узлов</text>
+  <rect x="448" y="198" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="461" y="211" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(467,217) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 15l6-6M8 8H6a3 3 0 000 6h2m8-6h2a3 3 0 010 6h-2"/></g>
+  <text x="506" y="224" font-size="13.5" font-weight="700" fill="#1a1a1f">Импорт</text>
+  <text x="506" y="241" font-size="11.5" fill="#6b6b72">Ссылка, ключ, QR или буфер</text>
+  <rect x="40" y="268" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="53" y="281" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(59,287) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="6" rx="1"/><rect x="4" y="14" width="16" height="6" rx="1"/></g>
+  <text x="98" y="294" font-size="13.5" font-weight="700" fill="#1a1a1f">Протоколы</text>
+  <text x="98" y="311" font-size="11.5" fill="#6b6b72">Мультиплекс, фрагментация TLS</text>
+  <rect x="448" y="268" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="461" y="281" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(467,287) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2"/><circle cx="18" cy="18" r="2"/><path d="M8 6h6a4 4 0 014 4v6"/></g>
+  <text x="506" y="294" font-size="13.5" font-weight="700" fill="#1a1a1f">Маршрутизация</text>
+  <text x="506" y="311" font-size="11.5" fill="#6b6b72">Гибкие правила и гео</text>
+  <rect x="40" y="338" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="53" y="351" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(59,357) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 000 12 6 6 0 01-6-6 6 6 0 016-6z"/></g>
+  <text x="98" y="364" font-size="13.5" font-weight="700" fill="#1a1a1f">Две темы</text>
+  <text x="98" y="381" font-size="11.5" fill="#6b6b72">Тёмная и светлая</text>
+  <rect x="448" y="338" width="392" height="58" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <rect x="461" y="351" width="32" height="32" rx="9" fill="#ffffff" stroke="#e4e5ea"/>
+  <g transform="translate(467,357) scale(0.833)" fill="none" stroke="#4a4a52" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 0114-5m2-3v4h-4M20 12a8 8 0 01-14 5m-2 3v-4h4"/></g>
+  <text x="506" y="364" font-size="13.5" font-weight="700" fill="#1a1a1f">Автообновление</text>
+  <text x="506" y="381" font-size="11.5" fill="#6b6b72">Всегда свежая сборка</text>
+  <rect x="41" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <text x="170" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a1f">Windows</text>
+  <text x="170" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.12.11</text>
+  <rect x="311" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea"/>
+  <text x="440" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a1f">Android</text>
+  <text x="440" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">v0.7.5</text>
+  <rect x="581" y="414" width="258" height="64" rx="12" fill="#f5f6f9" stroke="#e4e5ea" opacity="0.7"/>
+  <text x="710" y="442" text-anchor="middle" font-size="16" font-weight="700" fill="#a6a6ad">iOS</text>
+  <text x="710" y="461" text-anchor="middle" font-size="12" fill="#6b6b72" font-family="ui-monospace, Consolas, monospace">скоро</text>
+</svg>
