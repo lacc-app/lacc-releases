@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-20261031-w01212-a075.svg">
-  <img alt="Lacc — быстрый клиент для сетевых подключений. Возможности: один клик, импорт по ссылке / ключу / QR, мультиплексирование и фрагментация TLS, гибкая маршрутизация, две темы, автообновления. Платформы: Windows v0.12.12, Android v0.7.5, iOS — скоро." src="assets/banner-light-20261031-w01212-a075.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-20261124-w01218-a0714.svg">
+  <img alt="Lacc — быстрый клиент для сетевых подключений. Возможности: один клик, импорт по ссылке / ключу / QR, мультиплексирование и фрагментация TLS, гибкая маршрутизация, две темы, автообновления. Платформы: Windows v0.12.18, Android v0.7.14, iOS — скоро." src="assets/banner-light-20261124-w01218-a0714.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="../../releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dl-windows-dark.svg"><img alt="Скачать для Windows" src="assets/dl-windows-light.svg" height="44"></picture></a>
+  <a href="https://check.lacc.ru/download/windows"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dl-windows-dark.svg"><img alt="Скачать для Windows" src="assets/dl-windows-light.svg" height="44"></picture></a>
   &nbsp;
   <a href="https://check.lacc.ru/download/android"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dl-android-dark.svg"><img alt="Скачать для Android" src="assets/dl-android-light.svg" height="44"></picture></a>
 </p>
